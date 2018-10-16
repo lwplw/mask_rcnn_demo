@@ -11,6 +11,8 @@ VS2015工程
 1. 下载opencv .dll文件（太大了，传不上github），放到bin目录下
 
 下载地址：
+链接：https://pan.baidu.com/s/1Gm7cgCL7z0fh2IP5_yyWEg 
+提取码：gysn
 
 ![image](https://github.com/lwplw/repository_image/blob/master/mask2.jpg)
 
