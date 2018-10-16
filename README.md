@@ -17,6 +17,8 @@ VS2015工程
 2. 下载模型文件，放到MaskCNN目录下
 
 下载地址：
+链接：https://pan.baidu.com/s/1DcrjEu61gKdwNkhQHnqLcA 
+提取码：wjtt
 
 ![image](https://github.com/lwplw/repository_image/blob/master/mask1.jpg)
 
